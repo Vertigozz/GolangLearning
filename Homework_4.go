@@ -10,7 +10,7 @@ import (
 func main() {
 	var a, b, c, d, e, f int
 
-	fmt.Println("Введите последовательно 5 чисел для их сортировки: ")
+	fmt.Println("Введите последовательно 5 чисел для сортировки: ")
 	fmt.Scanln(&a)
 	fmt.Scanln(&b)
 	fmt.Scanln(&c)
